@@ -1,12 +1,10 @@
 {
-    "name": "EventManager",
-    "version": "1.0.0",
+    "name": "event-manager-js",
+    "version": "1.0.1",
     "description": "An Event management system",
     "main": "index.js",
     "scripts": {
-        "test": "test",
-        "build-dev": "webpack -d",
-        "build-prod": "webpack -p",
+        "test": "test"
     },
     "author": "Mihai Blebea",
     "license": "MIT"

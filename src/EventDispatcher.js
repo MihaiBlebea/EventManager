@@ -1,5 +1,5 @@
 
-class EventDispatcher()
+class EventDispatcher
 {
     constructor(eventName)
     {
@@ -29,4 +29,4 @@ class EventDispatcher()
     }
 }
 
-export default EventDispatcher;
+module.exports = EventDispatcher;

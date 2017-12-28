@@ -1,6 +1,6 @@
-import { EventDispatcher } from './exports.js';
+const EventDispatcher = require('./EventDispatcher.js');
 
-class EventManager()
+class EventManager
 {
     constructor()
     {
@@ -41,4 +41,4 @@ class EventManager()
     }
 }
 
-export default EventManager;
+module.exports = EventManager;

@@ -1,7 +1,3 @@
-import { EventManager, EventDispatcher } from './src/exports.js';
+const EventManager = require('./src/EventManager.js')
 
-
-export {
-    EventManager,
-    EventDispatcher
-}
+module.exports = EventManager;
