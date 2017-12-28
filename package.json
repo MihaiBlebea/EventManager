@@ -1,0 +1,13 @@
+{
+    "name": "eventdispacher",
+    "version": "1.0.0",
+    "description": "An Event management system",
+    "main": "index.js",
+    "scripts": {
+        "test": "test",
+        "build-dev": "webpack -d",
+        "build-prod": "webpack -p",
+    },
+    "author": "Mihai Blebea",
+    "license": "MIT"
+}
