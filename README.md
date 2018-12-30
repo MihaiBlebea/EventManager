@@ -8,7 +8,7 @@ Run in terminal ``` npm install event-manager-js ```
 
 If you are in a Node project, you could create a new file that holds all the events registered
 
-** events.js: **
+**events.js:**
 ```
 const { EventManager } = require('event-manager-js')
 
