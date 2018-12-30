@@ -1,11 +1,16 @@
 {
     "name": "event-manager-js",
-    "version": "1.0.1",
-    "description": "An Event management system",
-    "main": "index.js",
+    "version": "1.0.2",
+    "description": "An Event Management system for typescript or plain javascript",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
     "scripts": {
         "test": "test"
     },
-    "author": "Mihai Blebea",
+    "author": {
+        "name": "Mihai Blebea",
+        "email": "mihaiserban.blebea@gmail.com",
+        "url": "https://www.linkedin.com/in/mihai-blebea-87353310b/"
+    },
     "license": "MIT"
 }
