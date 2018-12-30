@@ -1,7 +1,10 @@
-import { EventManager } from './EventManager'
-import { EventDispatcher } from './EventDispatcher'
+import { EventStore } from './EventStore'
+import { ListenerInterface } from './ListenerInterface'
+import { DomainEvent } from './DomainEvent'
+
 
 export {
-    EventManager,
-    EventDispatcher
+    EventStore,
+    ListenerInterface,
+    DomainEvent
 }
