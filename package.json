@@ -1,6 +1,6 @@
 {
     "name": "event-manager-js",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "description": "An Event Management system for typescript or plain javascript",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
@@ -12,5 +12,14 @@
         "email": "mihaiserban.blebea@gmail.com",
         "url": "https://www.linkedin.com/in/mihai-blebea-87353310b/"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "keywords": [
+        "typescript",
+        "Event Store",
+        "Domain Driven Design",
+        "event manager",
+        "Domain Event",
+        "events",
+        "node js"
+    ]
 }
